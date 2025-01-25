@@ -72,7 +72,7 @@ Q- what are the different types of databases we do have?
 
 A - structure database-RDBMS MYSQL ,  Oracle MSSQLPostgress mariaDB Arora. 
 
-Structure database, AWS dynamo DB AWS document DB
+unStructure database, AWS dynamo DB AWS document DB
 
 In memory database, elastic cache, AWS redshift 
 
